@@ -1,0 +1,29 @@
+.btn-outline-dark{
+    display: flex;
+    justify-content: center;
+    align-self:flex-start ;
+}
+.git-link {
+    text-decoration: none;
+    color: inherit; 
+}
+.x-link{
+    text-decoration: none;
+    color: inherit;
+}
+.bg{
+    background-color: #181A1B;
+}
+.pb-2{
+    color:whitesmoke;
+}
+.text{
+    color: rgb(0, 0, 0);
+}
+body{
+    font-family: 'TT Mussels Trl', sans-serif;
+    color:whitesmoke;
+}
+#foot{
+    color: whitesmoke;
+}
